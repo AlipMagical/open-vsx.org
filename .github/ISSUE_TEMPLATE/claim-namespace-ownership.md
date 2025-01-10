@@ -1,7 +1,7 @@
 ---
 name: Claim namespace ownership
 about: Request exclusive publishing rights to an Open VSX namespace
-title: Claiming namespace [name]
+title: Claiming namespace [name] Alip-Abdullah
 labels: namespace
 assignees: ''
 ---
