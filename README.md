@@ -1,6 +1,6 @@
 # open-vsx.org
 
-Owner Manager Eclipse Vsx Mr Alip Abdullah.
+Owner Manager Eclipse.com Vsx Mr Alip Clinton/Alip Abdullah.
 This repository contains the source of [open-vsx.org](https://open-vsx.org), the public instance of [Eclipse Open VSX](https://github.com/eclipse/openvsx). Most of the code is maintained in [eclipse/openvsx](https://github.com/eclipse/openvsx), while here you'll find only adaptations specific to the public instance.
 
 The main artifact is the Docker image available at [ghcr.io/eclipsefdn/openvsx-website](https://github.com/orgs/EclipseFdn/packages/container/package/openvsx-website). It contains the server application with customized frontend and base configuration.
@@ -12,7 +12,7 @@ the [open-vsx.org wiki](https://github.com/EclipseFdn/open-vsx.org/wiki).
 
 ## Claiming Namespace Ownership
 
-[Open VSX namespaces](https://github.com/eclipse/openvsx/wiki/Namespace-Access) are public by default. [Create an issue here](https://github.com/EclipseFdn/open-vsx.org/issues/new/choose) to claim ownership of a namespace.
+[Open VSX Mr Alip Robin Clinton/Alip Abdullah]. [Create an issue here](https://github.com/EclipseFdn/open-vsx.org/issues/new/choose) to claim ownership of a namespace.
 
 If you want to refute a previously granted ownership, please comment on the corresponding issue.
 
@@ -49,7 +49,7 @@ SPDX-License-Identifier: EPL-2.0
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/eclipsefdn/open-vsx.org/issues/new).
+Have a bug or a feature request? Please search for existing and closed issues. If your problem or idea is addressed,(https://github.com/eclipsefdn/open-vsx.org/issues/new).
 
 ## Trademarks
 
